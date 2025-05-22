@@ -54,7 +54,7 @@ Administrador de Sistemas y Redes con una fuerte pasión por la ciberseguridad, 
 ### 🗒️ IDEs/Editores
 <span>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
-  <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
+  <img alt="Visual Studio" src="https://img.shields.io/badge/Cursor-Editor-009EFF"/>
 </span>
 
 ### 🔎 Otros
