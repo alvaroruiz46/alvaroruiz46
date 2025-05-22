@@ -1,4 +1,4 @@
-  <h1 align="center"><b>¡Hola!, Soy Álvaro </b><img alt="Hola" height="70px" width="70px" align="center" src="https://media.tenor.com/_1NYmn8RuWAAAAAi/goku-fortnite-goku.gif"></img></h1>
+  <h1 align="center"><b>¡Hola! Soy Álvaro </b><img alt="Hola" height="70px" width="70px" align="center" src="https://media.tenor.com/_1NYmn8RuWAAAAAi/goku-fortnite-goku.gif"></img></h1>
 
 ## 🚀 Sobre mí:
 Administrador de Sistemas y Redes con una fuerte pasión por la ciberseguridad, la computación en la nube y la automatización de infraestructuras. Me impulsa el aprendizaje continuo y el reto de implementar soluciones innovadoras para optimizar entornos IT.
