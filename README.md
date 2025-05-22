@@ -4,7 +4,7 @@
 Administrador de Sistemas y Redes con una fuerte pasión por la ciberseguridad, la computación en la nube y la automatización de infraestructuras. Me impulsa el aprendizaje continuo y el reto de implementar soluciones innovadoras para optimizar entornos IT.
 <p align="left">👩‍💻 Administrador de Sistemas <br>🔐 Ciberseguridad<br>☁️ Cloud Computing<br>⚙️ DevOps<br>📊 Bases de datos</p>
 
-## 📊 GitHub Stats
+## 📊 Estadísticas de Github
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaroruiz46&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
@@ -51,13 +51,13 @@ Administrador de Sistemas y Redes con una fuerte pasión por la ciberseguridad, 
   <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white"/>
 </span>
 
-### 🗒️ IDEs/Editors
+### 🗒️ IDEs/Editores
 <span>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"/>
 </span>
 
-### 🔎 Others
+### 🔎 Otros
 <span>
   <img alt="Apache" src="https://img.shields.io/badge/apache-%23D42029.svg?logo=apache&logoColor=white">
   <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white">
@@ -70,7 +70,7 @@ Administrador de Sistemas y Redes con una fuerte pasión por la ciberseguridad, 
 <br>
 
 
-### ✍️ Social Media
+### ✍️ Redes Sociales
 <div align="left">
   <a href="mailto:alvaroruizzalba@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
