@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre mí:
 Administrador de Sistemas y Redes con una fuerte pasión por la ciberseguridad, la computación en la nube y la automatización de infraestructuras. Me impulsa el aprendizaje continuo y el reto de implementar soluciones innovadoras para optimizar entornos IT.
-<p align="left">👩‍💻 Administrador de Sistemas<br>📚 Cloud & Cybersecurity Enthusiast<br>🔐 Ciberseguridad<br>☁️ Cloud Computing<br>⚙️ DevOps<br>📊 Bases de datos</p>
+<p align="left">👩‍💻 Administrador de Sistemas <br>🔐 Ciberseguridad<br>☁️ Cloud Computing<br>⚙️ DevOps<br>📊 Bases de datos</p>
 
 ## 📊 GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaroruiz46&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
