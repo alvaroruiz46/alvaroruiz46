@@ -5,8 +5,7 @@ Administrador de Sistemas y Redes con una fuerte pasión por la ciberseguridad, 
 <p align="left">👩‍💻 Administrador de Sistemas<br>📚 Cloud & Cybersecurity Enthusiast<br>🔐 Ciberseguridad<br>☁️ Cloud Computing<br>⚙️ DevOps<br>📊 Bases de datos</p>
 
 ## 📊 GitHub Stats
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaroruiz46
-&show_icons=true&theme=dark&locale=en&layout=compact" alt="alvaroruiz46" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alvaroruiz46&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 
 ## <img  src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Tech Stack</b>
